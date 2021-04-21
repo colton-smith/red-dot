@@ -1,2 +1,5 @@
 # Python environment
 .venv
+
+# Environment
+.env
